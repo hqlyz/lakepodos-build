@@ -1,5 +1,3 @@
-sudo su
-
 dpkg -i /media/*.deb
 
 # 更换源
